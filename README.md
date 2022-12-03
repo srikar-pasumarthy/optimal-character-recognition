@@ -8,6 +8,10 @@
 ## Preprocessing 
 
 ## Neural Network
++ [EMNIST Dataset](https://www.kaggle.com/datasets/crawford/emnist)
+    + Press download in top right, and use path of ByClass set into notebook (Probably just drag the files into vscode locally and then the existing path should work)
++ [Potential nn structure](https://arxiv.org/pdf/1909.08490.pdf) (see diagram on page 2)
++ [Similar project](https://www.kaggle.com/code/achintyatripathi/emnist-letter-dataset-97-9-acc-val-acc-91-78)
 
 ## Postprocessing 
 + Using [Natural Language Processing](https://nbviewer.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) to identify closest words.
