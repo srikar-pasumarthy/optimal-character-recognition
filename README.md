@@ -6,6 +6,7 @@
 + A honestly [confusing paper](http://zhiqiyu.com/papers/zhi.pdf) on translating handwritten code to executable source code.
 
 ## Preprocessing 
++ [Handwritten Text Recognition](https://github.com/KevinGThomas/HandwrittenTextRecognition) repository that could work
 
 ## Neural Network
 + [EMNIST Dataset](https://www.kaggle.com/datasets/crawford/emnist)
