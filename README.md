@@ -1,7 +1,7 @@
 # Overview
 + [Similar Project](https://github.com/githubharald/SimpleHTR) which used Tensor flow.
 + Another [OCR Project](https://github.com/JaidedAI/EasyOCR).
-+ Our [Dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset) containing all some handwritten sentences.
++ Our [Dataset](https://www.nist.gov/srd/nist-special-database-19) containing all some handwritten sentences.
 + A [sick paper](https://stacks.stanford.edu/file/druid:yt916dh6570/Thong_Recognition_of_Handwritten_Code.pdf) on translating handwritten code to executable source code.
 + A honestly [confusing paper](http://zhiqiyu.com/papers/zhi.pdf) on translating handwritten code to executable source code.
 
