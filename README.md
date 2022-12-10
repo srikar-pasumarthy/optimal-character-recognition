@@ -10,4 +10,4 @@ Our project was originally inspired by a [paper](https://stacks.stanford.edu/fil
 ## **References**: 
 + Using [Natural Language Processing](https://nbviewer.org/url/norvig.com/ipython/How%20to%20Do%20Things%20with%20Words.ipynb) to identify closest words.
 + [EMNIST Dataset](https://www.kaggle.com/datasets/crawford/emnist)
-+ **INSERT THOMAS SOURCE FOR PREPROCESSING**
++ [Preprocessing Method Code Source](https://pyimagesearch.com/2020/08/24/ocr-handwriting-recognition-with-opencv-keras-and-tensorflow/)
